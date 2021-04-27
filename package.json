@@ -32,7 +32,7 @@
     "passport-jwt": "^4.0.0",
     "qr-image": "^3.2.0",
     "randomstring": "^1.1.5",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "socket.io": "^2.2.0",
     "socketio-wildcard": "^2.0.0",
     "stripe": "^6.34.0",
